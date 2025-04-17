@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ### I'M QI😄
-![Zhiang Qi's GitHub stats](https://github-readme-stats.vercel.app/api?username=qza36&show_icons=true&theme=dracula)
+![Zhiang Qi's GitHub stats](https://github-readme-stats.vercel.app/api?username=qza36&show_icons=true&theme=dracula)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qza36)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **qza36/qza36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
